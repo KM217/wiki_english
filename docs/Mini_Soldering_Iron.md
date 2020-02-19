@@ -9,27 +9,27 @@ sku:  110060182
 ---
 ![](https://github.com/SeeedDocument/Mini_Soldering_Iron/raw/master/img/Mini_Soldering_Iron_product_view.jpg)
 
-Mini Soldering Iron is a slender, lightweight, accurate temperature-control and rapid-heating(ambient temperature to 300℃ in 10 seconds) soldering iron with an OLED display, which will be an essential tool in your development kit. It also features its sleeping mode and over-heating notification. In addition, it is easy to assemble and ESD safe (through grounding clamp). The temperature range of this iron is 100 ~ 400 ℃(212 ~ 752 ℉), and It contain two integrated(with heater) and compact soldering tips for different circumstances. You can configuration your setting by USB micro type-B interface.<sup>[1]</sup>
+Mini Soldering Iron is a slender, lightweight, accurate temperature-control and rapid-heating(ambient temperature to 300℃ in 10 seconds) soldering iron with an OLED display, which will be an essential tool in your development kit. It also features a sleeping mode and over-heating notification. In addition, it is easy to assemble and ESD safe (through grounding clamp). The temperature range of this iron is 100 - 400 ℃(212 - 752 ℉), and it contains two integrated(with heater) and compact soldering tips for different circumstances. You can configure the settings via the USB micro type-B interface.<sup>[1]</sup>
 
-<sup>[1]</sup>This page only show a quicker way and main information to get started. For detailed information, please refer to the manual included.
+<sup>[1]</sup>This page only shows a quicker way and main information to get started. For detailed information, please refer to the manual included.
 
 |[![](https://github.com/SeeedDocument/Seeed-WiKi/raw/master/docs/images/300px-Get_One_Now_Banner-ragular.png)](https://www.seeedstudio.com/Mini%C2%A0Soldering%C2%A0Iron%C2%A0Deluxe%C2%A0Kit%C2%A0Europe-Standard-p-2592.html?ref=newInBazaar)|[![](https://github.com/SeeedDocument/Seeed-WiKi/raw/master/docs/images/300px-Get_One_Now_Banner-ragular.png)](https://www.seeedstudio.com/Mini%C2%A0Soldering%C2%A0Iron%C2%A0Deluxe%C2%A0Kit%C2%A0US%C2%A0Standard-p-2593.html?ref=newInBazaar)|
 |:---:|:---:|
-|For EU Edision|For US Edision|
+|For EU Edition|For US Edition|
 
 ##  Features
 ---
 *   Accurate (temperature stability within ± 2%) temperature-control
 
-*   Slender, lightweight iron, no fatigue for long time working
+*   Slender, lightweight iron, no fatigue during extended use
 
-*   Rapid heating up for high efficiency
+*   Rapid heat-up for high efficiency
 
-*   Separate power adapter to be safer for personal safety
+*   Separate power adapter for personal safety
 
 *   Grounding clamp to be ESD-free
 
-*   USB micro type-B interface for customizable system setting and firmware update
+*   USB micro type-B interface for customizable system settings and firmware update
 
 *   No manual calibration needed
 
@@ -67,7 +67,7 @@ Mini Soldering Iron is a slender, lightweight, accurate temperature-control and 
 <td> 2 Ω
 </td></tr>
 <tr>
-<td>  Temperatures stability </td>
+<td>  Temperature stability </td>
 <td> ± 2%
 </td></tr>
 <tr>
@@ -81,7 +81,7 @@ Mini Soldering Iron is a slender, lightweight, accurate temperature-control and 
 
 <table>
 <tr>
-<th>Parts name   </th>
+<th>Part name   </th>
 <th> Quantity
 </th></tr>
 <tr>
@@ -117,7 +117,7 @@ Mini Soldering Iron is a slender, lightweight, accurate temperature-control and 
 <td> 1PC
 </td></tr>
 <tr>
-<td> Hex key ( and tow backup screws) </td>
+<td> Hex key ( and two replacement screws) </td>
 <td> 1PC
 </td></tr>
 <tr>
@@ -128,7 +128,7 @@ Mini Soldering Iron is a slender, lightweight, accurate temperature-control and 
 ##  Getting Started
 ---
 **Note:** In this case we show you a general development environmental.
-This section shows you how to basic operations with this soldering iron. For more details, please refer to manual included in the package.
+This section shows you how to perform basic operations with this soldering iron. For more details, please refer to manual included in the package.
 
 ###  Exploded view
 
@@ -149,11 +149,11 @@ This section shows you how to basic operations with this soldering iron. For mor
 
 <div style="margin:0px 0px; display: inline-block;"><div class="floatnone">![](https://github.com/SeeedDocument/Mini_Soldering_Iron/raw/master/img/Mini_Soldering_Iron_installation_guide.jpg)</div></div>
 
-1.  Unscrew the tip setscrew, insert the solder tip into the connection port, and then tighten screw.
+1.  Unscrew the tip setscrew, insert the solder tip into the connection port, and then tighten the screw.
 
 2.  Connect the ground wires with the ground set screw.
 
-3.  Connect the DC connector to Mini Soldering Iron, plug the power cord and turn on the device accordingly.
+3.  Connect the DC connector to Mini Soldering Iron, plug the power cord and turn on the device428------------------------------.
 
 ###  Basic operations
 
